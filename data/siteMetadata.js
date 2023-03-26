@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Eoin Murrays homepage',
+  title: '🔥 Eoin Murray',
   author: 'Eoin Murray',
   headerTitle: 'Eoin Murray',
   description: 'My personal webpage',
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'me@eoinmurray.eu',
+  github: 'https://github.com/eoinmurray',
+  twitter: null,
+  facebook: null,
+  youtube: null,
+  linkedin: null,
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -29,7 +29,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use an analytics provider you have to add it to the
