@@ -30,7 +30,7 @@ export default function AuthorLayout({ children, content }: Props) {
           <div className="prose max-w-none pb-8 dark:prose-dark xl:col-span-2">
             <div>
               <img
-                src={avatar}
+                src={`/static/images/profile.jpg`}
                 alt="avatar"
                 width="100px"
                 height="100px"
