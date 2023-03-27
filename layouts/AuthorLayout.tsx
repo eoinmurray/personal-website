@@ -32,8 +32,8 @@ export default function AuthorLayout({ children, content }: Props) {
               <img
                 src={`/static/images/profile.jpg`}
                 alt="avatar"
-                width="100px"
-                height="100px"
+                width="100"
+                height="100"
                 className="rounded-xl dark:border-gray-50 border-2 border-gray-500"
               />
             </div>
